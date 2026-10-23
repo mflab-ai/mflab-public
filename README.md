@@ -31,10 +31,10 @@ Memora is distributed through the App Store; its app download is not hosted in t
 | Product | Support |
 | --- | --- |
 | Memora | [Support form](https://lab.missflash.com/memora/support.html), or Settings → Customer Support in the app |
-| Mac-Monitor | [Setup and troubleshooting](https://lab.missflash.com/mac-monitor/support.html) · [Report an issue](https://github.com/mflab-ai/mflab-public/issues) |
-| CLF Studio | [Installation and CLF guidance](https://lab.missflash.com/clf-studio/support.html) · [Report an issue](https://github.com/mflab-ai/mflab-public/issues) |
+| Mac-Monitor | [Setup and troubleshooting](https://lab.missflash.com/mac-monitor/help.html) · [Contact support](https://lab.missflash.com/support/?product=mac-monitor) |
+| List Studio | [Installation and CLF guidance](https://lab.missflash.com/list-studio/help.html) · [Contact support](https://lab.missflash.com/support/?product=list-studio) |
 
-When reporting an issue, include the product name, app version, operating system version, and steps to reproduce it. For Mac-Monitor, include the display model and cable or adapter. Public issues are visible to everyone: remove personal information from screenshots and do not attach private photos, diaries, CLF archives, passwords or signing credentials.
+When reporting an issue, include the product name, app version, operating system version, and steps to reproduce it. For Mac-Monitor, include the display model and cable or adapter. Support requests are handled privately. Remove personal information from screenshots and do not attach private photos, diaries, CLF archives, passwords or signing credentials.
 
 ## Policies and notices
 
