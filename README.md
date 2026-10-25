@@ -15,7 +15,7 @@ This repository distributes release builds for MFLab's Mac apps and provides a p
 ## Install
 
 - **Memora:** Install from the App Store on iPhone or iPad running iOS or iPadOS 18 or later.
-- **Mac-Monitor:** Download the DMG, open it, and drag MacMonitor.app to Applications. Requires macOS 13 or later. Available brightness and volume controls depend on your monitor's DDC/CI support and connection.
+- **Mac-Monitor:** Download the DMG, open it, and drag Mac-Monitor.app to Applications. Requires macOS 13 or later. Available brightness and volume controls depend on your monitor's DDC/CI support and connection.
 - **List Studio:** Download the DMG, open it, and drag List Studio.app to Applications. Requires macOS 14 or later on Apple Silicon. Keep an original CLF backup and review the [support guide](https://lab.missflash.com/list-studio/help.html) before using edited copies with ListPro on iPhone.
 
 ## Releases and update history
