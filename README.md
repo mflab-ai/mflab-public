@@ -10,7 +10,7 @@ This repository distributes release builds for MFLab's Mac apps and provides a p
 | --- | --- | --- | --- |
 | **Memora** | Turns your photo library into editable memory stories and videos on iPhone and iPad. | [App Store](https://apps.apple.com/us/app/memora/id6772086536) | [Overview](https://lab.missflash.com/memora/) · [Feature guide](https://lab.missflash.com/memora/details.html) · [Changelog](https://lab.missflash.com/memora/changelog.html) |
 | **Mac-Monitor** | Controls external display brightness, volume and connections from your Mac's menu bar. | [Mac-Monitor.dmg](https://github.com/mflab-ai/mflab-public/releases/download/mflab-downloads/Mac-Monitor.dmg) | [Overview](https://lab.missflash.com/mac-monitor/) · [Changelog](https://lab.missflash.com/mac-monitor/changelog.html) |
-| **List Studio** | Opens, edits, compacts and analyzes ListPro CLF archives in a native Mac workspace. | [ListPro-Studio.dmg](https://github.com/mflab-ai/mflab-public/releases/download/mflab-downloads/ListPro-Studio.dmg) | [Overview](https://lab.missflash.com/list-studio/) · [Changelog](https://lab.missflash.com/list-studio/changelog.html) |
+| **List Studio** | Opens, edits, compacts and analyzes ListPro CLF archives in a native Mac workspace. | [List-Studio.dmg](https://github.com/mflab-ai/mflab-public/releases/download/mflab-downloads/List-Studio.dmg) | [Overview](https://lab.missflash.com/list-studio/) · [Changelog](https://lab.missflash.com/list-studio/changelog.html) |
 
 ## Install
 
