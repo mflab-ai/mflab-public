@@ -39,6 +39,7 @@ When reporting an issue, include the product name, app version, operating system
 ## Policies and notices
 
 - Memora: [Privacy Policy](https://lab.missflash.com/memora/PRIVACY_POLICY.html) · [Terms of Service](https://lab.missflash.com/memora/TERMS_OF_SERVICE.html)
+- Mac-Monitor: [Privacy](https://lab.missflash.com/mac-monitor/privacy.html)
 - List Studio: [Privacy](https://lab.missflash.com/list-studio/privacy.html)
 - List Studio is an independent compatibility tool. ListPro is a trademark of Ilium Software; List Studio is not developed, endorsed or sponsored by Ilium Software.
 
